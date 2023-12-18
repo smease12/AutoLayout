@@ -29,8 +29,8 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
                             <constraint firstAttribute="bottom" secondItem="fEb-pf-Q9X" secondAttribute="bottom" id="IX1-fP-JR1"/>
-                            <constraint firstItem="fEb-pf-Q9X" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="PGt-Xg-lsk"/>
-                            <constraint firstItem="fEb-pf-Q9X" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="tEb-gs-3Lp"/>
+                            <constraint firstItem="fEb-pf-Q9X" firstAttribute="trailing" secondItem="Ze5-6b-2t3" secondAttribute="trailing" id="PGt-Xg-lsk"/>
+                            <constraint firstItem="fEb-pf-Q9X" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leading" id="tEb-gs-3Lp"/>
                             <constraint firstItem="fEb-pf-Q9X" firstAttribute="top" secondItem="Ze5-6b-2t3" secondAttribute="top" id="u4W-Oe-STn"/>
                         </constraints>
                     </view>
